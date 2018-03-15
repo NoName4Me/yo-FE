@@ -1,6 +1,6 @@
 # yo-CSS
 
 
-## 代码风格
+## 编码指导（规范）
 
-1. [Airbnb CSS / Sass 代码风格指南](https://github.com/NoName4Me/yo-CSS/issues/1)
+1. [Airbnb CSS / Sass编码规范](https://github.com/NoName4Me/yo-CSS/issues/1)

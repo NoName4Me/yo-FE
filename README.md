@@ -17,7 +17,7 @@
 
 1. [100 Days CSS Challenge](https://codepen.io/collection/XgmakG/)
 
-## 3. 不错的网站
+## 3. 不错的网站
 
 1. [CSS tricks](https://css-tricks.com/)
 

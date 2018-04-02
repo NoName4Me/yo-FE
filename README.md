@@ -6,14 +6,14 @@
 2. [练习册](#练习册)
 3. [不错的网站](#不错的网站)
 4. [工具](#工具)
-    - [常用代码](#常用代码)
-    - [在线工具](#在线工具)
+    - [常用代码](#code-snippet)
+    - [在线工具](#online-tool)
 
-## 编码指导（规范）
+## 1. 编码指导（规范）
 
 1. [Airbnb CSS / Sass编码规范](https://github.com/NoName4Me/yo-CSS/issues/1)
 
-## 练习册
+## 2. 练习册
 
 1. [100 Days CSS Challenge](https://codepen.io/collection/XgmakG/)
 
@@ -23,11 +23,13 @@
 
 CSS的各种常规的、神奇的操作。
 
-## 工具
+## 4. 工具
+
+<a id="code-snippet" href="#code-snippet">
 
 ### 常用代码
 
-#### 随机颜色
+* 随机颜色
 
 ```scss
 // hsl
@@ -42,6 +44,8 @@ $l-max: 60;
     }
 }
 ```
+
+<a id="online-tool" href="#online-tool">
 
 ### 在线工具
 

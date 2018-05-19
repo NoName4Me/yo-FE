@@ -29,7 +29,7 @@ CSS的各种常规的、神奇的操作。
 
 ### 常用代码
 
-* 随机颜色
+#### 随机颜色
 
 ```scss
 // hsl
@@ -45,6 +45,8 @@ $l-max: 60;
 }
 ```
 
+* [移动端适配：`rem` 和 `vw` 方案](https://github.com/NoName4Me/yo-CSS/issues/2)
+
 <a id="online-tool" href="#online-tool">
 
 ### 在线工具
@@ -56,3 +58,5 @@ $l-max: 60;
 2. [Can I Use](https://caniuse.com/)
 
 查看JS、CSS、HTML等的浏览器兼容状况。
+
+sass内置函数速查：http://sass-lang.com/documentation/Sass/Script/Functions.html

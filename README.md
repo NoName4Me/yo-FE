@@ -29,21 +29,7 @@ CSS的各种常规的、神奇的操作。
 
 ### 常用代码
 
-#### 随机颜色
-
-```scss
-// hsl
-$s-min: 0;
-$s-max: 100;
-$l-min: 30;
-$l-max: 60;
-
-@for $i from 1 through 20 {
-    #dot-#{$i} {
-        background-color: hsl(random(360),$s-min+random($s-max+-$s-min),$l-min+random($l-max+-$l-min));
-    }
-}
-```
+[SCSS 一些常用函数](https://github.com/NoName4Me/yo-FE/issues/7)
 
 * [移动端适配：`rem` 和 `vw` 方案](https://github.com/NoName4Me/yo-CSS/issues/2)
 

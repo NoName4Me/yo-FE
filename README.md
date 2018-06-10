@@ -7,6 +7,7 @@
 3. [不错的网站](#不错的网站)
 4. [工具](#工具)
     - [常用代码](#code-snippet)
+    - [笔记（或填坑记）](#notes)
     - [在线工具](#online-tool)
 
 ## 1. 编码指导（规范）
@@ -17,7 +18,7 @@
 
 1. [100 Days CSS Challenge](https://codepen.io/collection/XgmakG/)
 
-## 不错的网站
+## 3. 不错的网站
 
 1. [CSS tricks](https://css-tricks.com/)
 
@@ -29,9 +30,14 @@ CSS的各种常规的、神奇的操作。
 
 ### 常用代码
 
-[SCSS 一些常用函数](https://github.com/NoName4Me/yo-FE/issues/7)
+* [SCSS 一些常用函数](https://github.com/NoName4Me/yo-FE/issues/7)
 
 * [移动端适配：`rem` 和 `vw` 方案](https://github.com/NoName4Me/yo-CSS/issues/2)
+
+<a id="notes" href="#notes" >
+### 笔记（或填坑记）
+
+* [【vue 系列】props 传递对象时如何保留没有赋值的属性默认值](https://github.com/NoName4Me/yo-FE/issues/5)
 
 <a id="online-tool" href="#online-tool">
 
